@@ -1,0 +1,201 @@
+name: Get YouTube Live m3u8
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Install youtube-dl
+      run: |
+        sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+        sudo chmod a+rx /usr/local/bin/youtube-dl
+    - name: Get 01.m3u8
+      run: |
+        touch ./01.m3u8
+        sudo cat >./01.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live)
+        EOL
+    - name: Get 02.m3u8
+      run: |
+        touch ./02.m3u8
+        sudo cat >./02.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=M189jon9e6k)
+        EOL 
+    - name: Get 08.m3u8
+      run: |
+        touch ./08.m3u8
+        sudo cat >./08.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=uDqQo8a7Xmk)
+        EOL		
+    - name: Get 09.m3u8
+      run: |
+        touch ./09.m3u8
+        sudo cat >./09.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww/live)
+        EOL   
+    - name: Get 13.m3u8
+      run: |
+        touch ./13.m3u8
+        sudo cat >./13.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live)
+        EOL
+        
+    - name: Get 14.m3u8
+      run: |
+        touch ./14.m3u8
+        sudo cat >./14.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/live)
+        EOL	
+    - name: Get 34.m3u8
+      run: |
+        touch ./34.m3u8
+        sudo cat >./34.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=JAElED3uNVU)
+        EOL	
+    - name: Get 35.m3u8
+      run: |
+        touch ./35.m3u8
+        sudo cat >./35.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=GGafFe1tFII)
+        EOL
+        		
+    - name: Get 46.m3u8
+      run: |
+        touch ./46.m3u8
+        sudo cat >./46.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=MIqUplvSRWA)
+        EOL  
+    - name: Get 47.m3u8
+      run: |
+        touch ./47.m3u8
+        sudo cat >./47.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=DTNkEm6jaqQ)
+        EOL  
+    - name: Get 48.m3u8
+      run: |
+        touch ./48.m3u8
+        sudo cat >./48.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=B7Zp3d6xXWw)
+        EOL      
+    - name: Get 51.m3u8
+      run: |
+        touch ./51.m3u8
+        sudo cat >./51.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=_uD7jA-ee78)
+        EOL    
+    - name: Get 52.m3u8
+      run: |
+        touch ./52.m3u8
+        sudo cat >./52.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=_QbRXRnHMVY)
+        EOL    
+    - name: Get 53.m3u8
+      run: |
+        touch ./53.m3u8
+        sudo cat >./53.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA/live)
+        EOL    
+    - name: Get 54.m3u8
+      run: |
+        touch ./54.m3u8
+        sudo cat >./54.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=EB4g7wecgTI)
+        EOL  
+    - name: Get 55.m3u8
+      run: |
+        touch ./55.m3u8
+        sudo cat >./55.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=BiOFto3xqrk)
+        EOL  
+    - name: Get 56.m3u8
+      run: |
+        touch ./56.m3u8
+        sudo cat >./56.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
+        EOL		
+    - name: Get 57.m3u8
+      run: |
+        touch ./57.m3u8
+        sudo cat >./57.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=ABn_ccXn_jc)
+        EOL  
+    - name: Get 59.m3u8
+      run: |
+        touch ./59.m3u8
+        sudo cat >./59.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
+        EOL		
+    - name : Upload artifact
+      uses: actions/upload-artifact@master
+      with:
+        name: YTlive m3u8
+        path: .
+    - name: Git push assets to "YTlive" branch
+      run: |
+        git init
+        git config --local user.name "actions"
+        git config --local user.email "action@github.com"
+        git checkout -b YTlive
+        git add .
+        git commit -m "Update YTlive"
+        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+        git push -f -u origin YTlive
