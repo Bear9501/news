@@ -107,6 +107,13 @@ kh2.壽山情人觀景台,https://www.youtube.com/watch?v=C03Itx8iSC0
 kh3.2號碼頭海景,https://www.youtube.com/watch?v=dvG6CTX_bno
 kh4.鳳山蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 
+pt1.墾丁萬里桐,https://www.youtube.com/watch?v=H1sN82agKYc
+pt2.墾丁南灣  ,https://www.youtube.com/watch?v=oTXJlZKnlq0
+py3.墾丁大街  ,https://www.youtube.com/watch?v=KjxDilWq2j4
+pt4.墾丁後壁湖,https://www.youtube.com/watch?v=mEg9B7xgV4E
+pt5.月牙桐餐廳海灣,https://www.youtube.com/watch?v=htbP-JA5V6k
+pt6.小琉球花瓶岩,https://www.youtube.com/watch?v=VU9AgSl_MZc
+pt7.琉球嶼,https://www.youtube.com/watch?v=A4lBLuo82nM
 
 
 
