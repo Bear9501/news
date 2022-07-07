@@ -79,40 +79,66 @@ kin2.南竿大漢據點,https://www.youtube.com/watch?v=nMK1GUTjbbc
 kin3.南竿北海坑道,https://www.youtube.com/watch?v=e4VJS-ZAJj4
 
 ty1.石門水庫,https://www.youtube.com/watch?v=1OTZ9rjFv78  
+
 ty2.小烏來寰宇平台,https://www.youtube.com/watch?v=qYC8DpGOIJc
+
 ty3.小烏來天空步道,https://www.youtube.com/watch?v=2NS-5SqvhkI
+
 ty4.大溪老街,https://www.youtube.com/watch?v=z_mlibCfgFI
+
 ty5.大溪橋,https://www.youtube.com/watch?v=FPfv3-dC1Po
+
 ty6.慈湖,https://www.youtube.com/watch?v=x6I-9UEe5PY
+
 ty7.角板山梅園,https://www.youtube.com/watch?v=E0-nfZjrMiE
+
 ty8.角板山生態池,https://www.youtube.com/watch?v=D3RGBaU1uUY
+
 ty9.永安漁港,https://www.youtube.com/watch?v=tD_a03trUvE
 
-np1.新店碧潭吊橋,https://www.youtube.com/watch?v=pnRqzs7ZTEs  
+np1.新店碧潭吊橋,https://www.youtube.com/watch?v=pnRqzs7ZTEs 
+ 
 np2.淡水渡船碼頭,https://www.youtube.com/watch?v=YflGkkhUUZM
+
 np3.烏來吊橋,https://www.youtube.com/watch?v=qJUVVjCjFaw
+
 np4.白沙灣,https://www.youtube.com/watch?v=St4GHsJzfg4
+
 np5.野柳1,https://www.youtube.com/watch?v=d0jtifyp15k
+
 np6.野柳2,https://www.youtube.com/watch?v=aI8_wjVrEKQ
+
 np7.龍洞,https://www.youtube.com/watch?v=n38t6LYflIA
+
 np8.淡水緣道觀音廟,https://www.youtube.com/watch?v=l9z4wO9Jiyg
 
 tn1.台南黃金海岸,https://www.youtube.com/watch?v=yeoV-wBdoxQ  
+
 tn2.井仔腳瓦盤鹽田,https://www.youtube.com/watch?v=LC6eFju5Xac
+
 tn3.台江公園六孔碼頭,https://www.youtube.com/watch?v=UcTGee9_epA
+
 tn4.南鯤鯓代天府,https://www.youtube.com/watch?v=m5A8SlCQtSM
 
-kh1.旗津海水浴場,https://www.youtube.com/watch?v=1xFXOWENQg0   
+kh1.旗津海水浴場,https://www.youtube.com/watch?v=1xFXOWENQg0 
+  
 kh2.壽山情人觀景台,https://www.youtube.com/watch?v=C03Itx8iSC0
+
 kh3.2號碼頭海景,https://www.youtube.com/watch?v=dvG6CTX_bno
+
 kh4.鳳山蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 
 pt1.墾丁萬里桐,https://www.youtube.com/watch?v=H1sN82agKYc
-pt2.墾丁南灣  ,https://www.youtube.com/watch?v=oTXJlZKnlq0
-py3.墾丁大街  ,https://www.youtube.com/watch?v=KjxDilWq2j4
+
+pt2.墾丁南灣,https://www.youtube.com/watch?v=oTXJlZKnlq0
+py3.墾丁大街,https://www.youtube.com/watch?v=KjxDilWq2j4
+
 pt4.墾丁後壁湖,https://www.youtube.com/watch?v=mEg9B7xgV4E
+
 pt5.月牙桐餐廳海灣,https://www.youtube.com/watch?v=htbP-JA5V6k
+
 pt6.小琉球花瓶岩,https://www.youtube.com/watch?v=VU9AgSl_MZc
+
 pt7.琉球嶼,https://www.youtube.com/watch?v=A4lBLuo82nM
 
 
