@@ -642,7 +642,61 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://www.youtube.com/watch?v=A4lBLuo82nM)
+        EOL		
+    - name: Get tp1.m3u8
+      run: |
+        touch ./tp1.m3u8
+        sudo cat >./tp1.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=BP69KnwrvxM)
         EOL			
+    - name: Get tp2.m3u8
+      run: |
+        touch ./tp2.m3u8
+        sudo cat >./tp2.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=z_fY1pj1VBw)
+        EOL			
+    - name: Get tp3.m3u8
+      run: |
+        touch ./tp3.m3u8
+        sudo cat >./tp3.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=myZqBXELfvc)
+        EOL			
+    - name: Get tp4.m3u8
+      run: |
+        touch ./tp4.m3u8
+        sudo cat >./tp4.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=3w96Y8hbZfE)
+        EOL	
+    - name: Get tp5.m3u8
+      run: |
+        touch ./tp5.m3u8
+        sudo cat >./tp5.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=dc0ZdgRMnsQ)
+        EOL			
+    - name: Get tp6.m3u8
+      run: |
+        touch ./tp6.m3u8
+        sudo cat >./tp6.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=ZrKYemeOfw8)
+        EOL				
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
