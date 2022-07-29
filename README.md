@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [np1.新店碧潭吊橋](https://www.youtube.com/watch?v=pnRqzs7ZTEs) 
  
-[np2.淡水渡船碼頭](https://www.youtube.com/watch?v=YflGkkhUUZM)
+[np2.淡水漁人碼頭](https://www.youtube.com/watch?v=xwAWSh35uuw)
 
 [np3.烏來吊橋](https://www.youtube.com/watch?v=qJUVVjCjFaw)
 
