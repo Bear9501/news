@@ -1,6 +1,6 @@
 [01.中視新聞](https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live)
 
-🚫[02.亞洲旅遊台🔝](https://www.youtube.com/watch?v=K-8j1JOx6g8)
+🚫[02.亞洲旅遊台](https://www.youtube.com/watch?v=K-8j1JOx6g8)
 
 [08.台視](https://www.youtube.com/channel/UC9CsZoTaHZqZjnNZv7v3T1g/live)
 
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [48.寰宇新聞](https://www.youtube.com/watch?v=B7Zp3d6xXWw)
 
-🚫[51.東森新聞](https://www.youtube.com/watch?v=akNOTU3jhUI)
+🚫[51.東森新聞🔝](https://www.youtube.com/watch?v=akNOTU3jhUI)
 
 [52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
 
