@@ -1,6 +1,6 @@
 [01.中視新聞](https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live)
 
-[02.亞洲旅遊台🔝](https://www.youtube.com/watch?v=K-8j1JOx6g8)
+🚫[02.亞洲旅遊台🔝](https://www.youtube.com/watch?v=K-8j1JOx6g8)
 
 [08.台視](https://www.youtube.com/channel/UC9CsZoTaHZqZjnNZv7v3T1g/live)
 
