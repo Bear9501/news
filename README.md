@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 🚫[23.Disney Junior🔝](https://www.youtube.com/watch?v=c5tzU4MGCNs)
 
+[34.東森購物2台](https://www.youtube.com/channel/UCiolqpxuocdomP4hPGfn_-A/live)
+
+[35.momo購物2台](https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live)
+
 🚫[34.靖天電視台🔝](https://www.youtube.com/watch?v=JAElED3uNVU)
 
 🚫[35.美食星球🔝](https://www.youtube.com/watch?v=GGafFe1tFII)
