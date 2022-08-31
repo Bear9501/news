@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=4Uc00FPs27M
 
 https://www.youtube.com/watch?v=6KlRR_DGhmI
 
-🚫[23.Disney Junior🔝](https://www.youtube.com/watch?v=c5tzU4MGCNs)
+🚫[23.Disney Junior🔝](https://www.youtube.com/watch?v=dX1jBiY5eeo)
 
 [34.東森購物2台](https://www.youtube.com/channel/UCiolqpxuocdomP4hPGfn_-A/live)
 
