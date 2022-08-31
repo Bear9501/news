@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [48.寰宇新聞](https://www.youtube.com/watch?v=B7Zp3d6xXWw)
 
-🚫[51.東森新聞🔝](https://www.youtube.com/watch?v=akNOTU3jhUI)
+🚫[51.東森新聞🔝](https://www.youtube.com/watch?v=SBtGwNMfuf0)
 
 [52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
 
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [54.三立新聞](https://www.youtube.com/watch?v=EB4g7wecgTI)
 
-🚫[55.TVBS新聞🔝](https://www.youtube.com/watch?v=IK6LzYYCUe0)
+🚫[55.TVBS新聞🔝](https://www.youtube.com/watch?v=oEpfDIm0f4w)
 
 [56.TVBS直播](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
