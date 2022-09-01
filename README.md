@@ -38,7 +38,9 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [54.三立新聞](https://www.youtube.com/watch?v=EB4g7wecgTI)
 
-🚫[55.TVBS新聞🔝](https://www.youtube.com/watch?v=oEpfDIm0f4w)
+🚫[55.TVBS新聞🔝](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
+
+(https://www.youtube.com/watch?v=oEpfDIm0f4w)
 
 [56.TVBS直播](https://www.youtube.com/watch?v=s7QREqoxHdA)
 
