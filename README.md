@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
 
+[522中天新聞2台](https://www.youtube.com/watch?v=WPfPjbOLNfE)
+
 [53.民視新聞](https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA/live)
 
 [54.三立新聞🔝](https://www.youtube.com/watch?v=uNEZ3hjamus)
