@@ -32,7 +32,9 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 (https://www.youtube.com/watch?v=B7Zp3d6xXWw)
 
-🚫[51.東森新聞🔝]vpn(https://www.youtube.com/watch?v=R2iMq5LKXco)
+🚫[51.東森新聞🔝](https://www.youtube.com/watch?v=SBtGwNMfuf0)
+
+vpn(https://www.youtube.com/watch?v=R2iMq5LKXco)
 
 [52.中天電視](https://www.youtube.com/watch?v=_QbRXRnHMVY)
 
