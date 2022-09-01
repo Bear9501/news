@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 (https://www.youtube.com/watch?v=s7QREqoxHdA)
 
-[57.東森財經🔝]](https://www.youtube.com/channel/UCuzqko_GKcj9922M1gUo__w/live)
+[57.東森財經🔝](https://www.youtube.com/channel/UCuzqko_GKcj9922M1gUo__w/live)
 
 (https://www.youtube.com/watch?v=ABn_ccXn_jc)
 
