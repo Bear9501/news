@@ -28,7 +28,9 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [47.大愛二台](https://www.youtube.com/watch?v=DTNkEm6jaqQ)
 
-[48.寰宇新聞](https://www.youtube.com/watch?v=B7Zp3d6xXWw)
+[48.寰宇新聞🔝](https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
+
+(https://www.youtube.com/watch?v=B7Zp3d6xXWw)
 
 🚫[51.東森新聞🔝]vpn(https://www.youtube.com/watch?v=R2iMq5LKXco)
 
