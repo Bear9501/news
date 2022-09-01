@@ -66,4 +66,6 @@ vpn(https://www.youtube.com/watch?v=R2iMq5LKXco)
 
 (https://www.youtube.com/watch?v=5n0y6b0Q25o)
 
-[a1.新唐人亞太電視台](https://www.youtube.com/c/NTDAPTV/live)
+[a1.新唐人亞太電視台](https://www.youtube.com/watch?v=xrLOKtrqHcM)
+
+(https://www.youtube.com/c/NTDAPTV/live)
