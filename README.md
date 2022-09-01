@@ -40,7 +40,8 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 🚫[55.TVBS新聞🔝](https://www.youtube.com/watch?v=oEpfDIm0f4w)
 
-[56.TVBS直播](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
+[56.TVBS直播](https://www.youtube.com/watch?v=s7QREqoxHdA)
+(https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
 [57.東森財經](https://www.youtube.com/watch?v=ABn_ccXn_jc)
 
