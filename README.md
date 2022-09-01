@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [35.momo購物2台](https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live)
 
-🚫[34.靖天電視台🔝](https://www.youtube.com/watch?v=JAElED3uNVU)
+🚫[34.靖天電視台🔝](https://www.youtube.com/channel/UCNo4Eerk3UkixFx-n2Dj1Cg/live)
 
 🚫[35.美食星球🔝](https://www.youtube.com/watch?v=GGafFe1tFII)
 
