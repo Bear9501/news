@@ -38,6 +38,8 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [54.三立新聞🔝](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live)
 
+(https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live)
+
 (https://www.youtube.com/watch?v=EB4g7wecgTI)
 
 🚫[55.TVBS新聞🔝](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
