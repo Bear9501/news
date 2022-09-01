@@ -111,7 +111,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=B7Zp3d6xXWw)
+        $(youtube-dl -g https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
         EOL      
     - name: Get 51.m3u8
       run: |
@@ -130,7 +130,16 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://www.youtube.com/watch?v=_QbRXRnHMVY)
-        EOL    
+        EOL   
+    - name: Get 522.m3u8
+      run: |
+        touch ./522.m3u8
+        sudo cat >./522.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=WPfPjbOLNfE)
+        EOL 		
     - name: Get 53.m3u8
       run: |
         touch ./53.m3u8
@@ -147,7 +156,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=EB4g7wecgTI)
+        $(youtube-dl -g https://www.youtube.com/watch?v=uNEZ3hjamus)
         EOL  
     - name: Get 55.m3u8
       run: |
@@ -165,7 +174,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=s7QREqoxHdA)
+        $(youtube-dl -g https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
         EOL		
     - name: Get 57.m3u8
       run: |
@@ -183,8 +192,18 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
+        $(youtube-dl -g https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live)
         EOL	
+    - name: Get a1.m3u8
+      run: |
+        touch ./a1.m3u8
+        sudo cat >./a1.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g hhttps://www.youtube.com/c/NTDAPTV/live)
+        EOL	
+		
     - name: Get y1.m3u8
       run: |
         touch ./y1.m3u8
