@@ -36,11 +36,13 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 [53.民視新聞](https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA/live)
 
-[54.三立新聞🔝](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live)
+[54.三立新聞🔝](https://www.youtube.com/watch?v=uNEZ3hjamus)
 
-(https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live)
+三立 iNEWS(https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live)
 
-(https://www.youtube.com/watch?v=EB4g7wecgTI)
+三立 iNEWS(https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live)
+
+三立 iNEWS(https://www.youtube.com/watch?v=EB4g7wecgTI)
 
 🚫[55.TVBS新聞🔝](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
