@@ -48,4 +48,6 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 
 (https://www.youtube.com/watch?v=ABn_ccXn_jc)
 
-[59.鏡新聞](https://www.youtube.com/watch?v=5n0y6b0Q25o)
+[59.鏡新聞🔝](https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live)
+
+(https://www.youtube.com/watch?v=5n0y6b0Q25o)
