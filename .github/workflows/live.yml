@@ -273,7 +273,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=llNB7tO3fTLI)
+        $(youtube-dl -g https://www.youtube.com/watch?v=lNB7tO3fTLI)
         EOL
     - name: Get np9.m3u8
       run: |
@@ -435,7 +435,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=E7OqBRGbLSw)
+        $(youtube-dl -g https://www.youtube.com/watch?v=lhXXhDyjFtI)
         EOL			
     - name: Get tc3.m3u8
       run: |
@@ -480,7 +480,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=w_t_Fa1XlUk)
+        $(youtube-dl -g https://www.youtube.com/watch?v=dtYM8xypli0)
         EOL			
     - name: Get tc8.m3u8
       run: |
