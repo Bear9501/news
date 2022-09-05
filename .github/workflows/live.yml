@@ -203,176 +203,140 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://www.youtube.com/c/NTDAPTV/live)
         EOL	
-    - name: Get y1.m3u8
+    - name: Get np1.m3u8
       run: |
-        touch ./y1.m3u8
-        sudo cat >./y1.m3u8 <<EOL
+        touch ./np1.m3u8
+        sudo cat >./np1.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=dY2cRNr5Buw)
+        $(youtube-dl -g https://www.youtube.com/watch?v=7BGw_tjb8xI)
+        EOL			
+    - name: Get np2.m3u8
+      run: |
+        touch ./np2.m3u8
+        sudo cat >./np2.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=xwAWSh35uuw)
+        EOL			
+    - name: Get np3.m3u8
+      run: |
+        touch ./np3.m3u8
+        sudo cat >./np3.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=qJUVVjCjFaw)
+        EOL			
+    - name: Get np4.m3u8
+      run: |
+        touch ./np4.m3u8
+        sudo cat >./np4.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=St4GHsJzfg4)
+        EOL	
+    - name: Get np5.m3u8
+      run: |
+        touch ./np5.m3u8
+        sudo cat >./np5.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=YrapJmdIfH4)
+        EOL			
+    - name: Get np6.m3u8
+      run: |
+        touch ./np6.m3u8
+        sudo cat >./np6.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=7kErhPE9D20)
+        EOL			
+    - name: Get np7.m3u8
+      run: |
+        touch ./np7.m3u8
+        sudo cat >./np7.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=MnLKI5pckRA)
+        EOL			
+    - name: Get np8.m3u8
+      run: |
+        touch ./np8.m3u8
+        sudo cat >./np8.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=llNB7tO3fTLI)
         EOL
-    - name: Get y2.m3u8
+    - name: Get np9.m3u8
       run: |
-        touch ./y2.m3u8
-        sudo cat >./y2.m3u8 <<EOL
+        touch ./np9.m3u8
+        sudo cat >./np9.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=j2L_559nCjc)
-        EOL			
-    - name: Get h1.m3u8
-      run: |
-        touch ./h1.m3u8
-        sudo cat >./h1.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=BWrRFJoOV9c)
+        $(youtube-dl -g https://www.youtube.com/watch?v=DNBPoRA6fB4)
         EOL	
-    - name: Get tc1.m3u8
+    - name: Get tp1.m3u8
       run: |
-        touch ./tc1.m3u8
-        sudo cat >./tc1.m3u8 <<EOL
+        touch ./tp1.m3u8
+        sudo cat >./tp1.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=fjhg3gAnMFg)
+        $(youtube-dl -g https://www.youtube.com/watch?v=BP69KnwrvxM)
         EOL			
-    - name: Get tc2.m3u8
+    - name: Get tp2.m3u8
       run: |
-        touch ./tc2.m3u8
-        sudo cat >./tc2.m3u8 <<EOL
+        touch ./tp2.m3u8
+        sudo cat >./tp2.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=E7OqBRGbLSw)
+        $(youtube-dl -g https://www.youtube.com/watch?v=z_fY1pj1VBw)
         EOL			
-    - name: Get tc3.m3u8
+    - name: Get tp3.m3u8
       run: |
-        touch ./tc3.m3u8
-        sudo cat >./tc3.m3u8 <<EOL
+        touch ./tp3.m3u8
+        sudo cat >./tp3.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=6bJSN9HZWdk)
+        $(youtube-dl -g https://www.youtube.com/watch?v=myZqBXELfvc)
         EOL			
-    - name: Get tc4.m3u8
+    - name: Get tp4.m3u8
       run: |
-        touch ./tc4.m3u8
-        sudo cat >./tc4.m3u8 <<EOL
+        touch ./tp4.m3u8
+        sudo cat >./tp4.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=qa8qGJADrck)
+        $(youtube-dl -g https://www.youtube.com/watch?v=3w96Y8hbZfE)
         EOL	
-    - name: Get tc5.m3u8
+    - name: Get tp5.m3u8
       run: |
-        touch ./tc5.m3u8
-        sudo cat >./tc5.m3u8 <<EOL
+        touch ./tp5.m3u8
+        sudo cat >./tp5.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=lhXXhDyjFtI)
+        $(youtube-dl -g https://www.youtube.com/watch?v=dc0ZdgRMnsQ)
         EOL			
-    - name: Get tc6.m3u8
+    - name: Get tp6.m3u8
       run: |
-        touch ./tc6.m3u8
-        sudo cat >./tc6.m3u8 <<EOL
+        touch ./tp6.m3u8
+        sudo cat >./tp6.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=5Vzj2uU6fAw)
-        EOL			
-    - name: Get tc7.m3u8
-      run: |
-        touch ./tc7.m3u8
-        sudo cat >./tc7.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=w_t_Fa1XlUk)
-        EOL			
-    - name: Get tc8.m3u8
-      run: |
-        touch ./tc8.m3u8
-        sudo cat >./tc8.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=3ZbkExh7Iv8)
-        EOL		
-    - name: Get td1.m3u8
-      run: |
-        touch ./td1.m3u8
-        sudo cat >./td1.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=jFJ59-9tTyM)
-        EOL			
-    - name: Get td2.m3u8
-      run: |
-        touch ./td2.m3u8
-        sudo cat >./td2.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=UCG1aXVO8H8)
-        EOL			
-    - name: Get td3.m3u8
-      run: |
-        touch ./td3.m3u8
-        sudo cat >./td3.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=6aYqW-1QJ0ts)
-        EOL			
-    - name: Get td4.m3u8
-      run: |
-        touch ./td4.m3u8
-        sudo cat >./td4.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=qYlxWDwTUtxg)
-        EOL		
-    - name: Get bn1.m3u8
-      run: |
-        touch ./bn1.m3u8
-        sudo cat >./bn1.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=hMOmSnZTOSg)
-        EOL		
-    - name: Get kin1.m3u8
-      run: |
-        touch ./kin1.m3u8
-        sudo cat >./kin1.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=uh_yNAE01w8)
-        EOL			
-    - name: Get kin2.m3u8
-      run: |
-        touch ./kin2.m3u8
-        sudo cat >./kin2.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=nMK1GUTjbbc)
-        EOL			
-    - name: Get kin3.m3u8
-      run: |
-        touch ./kin3.m3u8
-        sudo cat >./kin3.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=e4VJS-ZAJj4)
+        $(youtube-dl -g https://www.youtube.com/watch?v=xr9a3GHNPzc)
         EOL		
     - name: Get ty1.m3u8
       run: |
@@ -455,77 +419,95 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://www.youtube.com/watch?v=tD_a03trUvE)
         EOL
-    - name: Get np1.m3u8
+    - name: Get tc1.m3u8
       run: |
-        touch ./np1.m3u8
-        sudo cat >./np1.m3u8 <<EOL
+        touch ./tc1.m3u8
+        sudo cat >./tc1.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=7BGw_tjb8xI)
+        $(youtube-dl -g https://www.youtube.com/watch?v=fjhg3gAnMFg)
         EOL			
-    - name: Get np2.m3u8
+    - name: Get tc2.m3u8
       run: |
-        touch ./np2.m3u8
-        sudo cat >./np2.m3u8 <<EOL
+        touch ./tc2.m3u8
+        sudo cat >./tc2.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=xwAWSh35uuw)
+        $(youtube-dl -g https://www.youtube.com/watch?v=E7OqBRGbLSw)
         EOL			
-    - name: Get np3.m3u8
+    - name: Get tc3.m3u8
       run: |
-        touch ./np3.m3u8
-        sudo cat >./np3.m3u8 <<EOL
+        touch ./tc3.m3u8
+        sudo cat >./tc3.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=qJUVVjCjFaw)
+        $(youtube-dl -g https://www.youtube.com/watch?v=6bJSN9HZWdk)
         EOL			
-    - name: Get np4.m3u8
+    - name: Get tc4.m3u8
       run: |
-        touch ./np4.m3u8
-        sudo cat >./np4.m3u8 <<EOL
+        touch ./tc4.m3u8
+        sudo cat >./tc4.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=St4GHsJzfg4)
+        $(youtube-dl -g https://www.youtube.com/watch?v=qa8qGJADrck)
         EOL	
-    - name: Get np5.m3u8
+    - name: Get tc5.m3u8
       run: |
-        touch ./np5.m3u8
-        sudo cat >./np5.m3u8 <<EOL
+        touch ./tc5.m3u8
+        sudo cat >./tc5.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=d0jtifyp15k)
+        $(youtube-dl -g https://www.youtube.com/watch?v=lhXXhDyjFtI)
         EOL			
-    - name: Get np6.m3u8
+    - name: Get tc6.m3u8
       run: |
-        touch ./np6.m3u8
-        sudo cat >./np6.m3u8 <<EOL
+        touch ./tc6.m3u8
+        sudo cat >./tc6.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=aI8_wjVrEKQ)
+        $(youtube-dl -g https://www.youtube.com/watch?v=5Vzj2uU6fAw)
         EOL			
-    - name: Get np7.m3u8
+    - name: Get tc7.m3u8
       run: |
-        touch ./np7.m3u8
-        sudo cat >./np7.m3u8 <<EOL
+        touch ./tc7.m3u8
+        sudo cat >./tc7.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=En38t6LYflIA)
+        $(youtube-dl -g https://www.youtube.com/watch?v=w_t_Fa1XlUk)
         EOL			
-    - name: Get np8.m3u8
+    - name: Get tc8.m3u8
       run: |
-        touch ./np8.m3u8
-        sudo cat >./np8.m3u8 <<EOL
+        touch ./tc8.m3u8
+        sudo cat >./tc8.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=l9z4wO9Jiyg)
+        $(youtube-dl -g https://www.youtube.com/watch?v=3ZbkExh7Iv8)
+        EOL		
+    - name: Get y1.m3u8
+      run: |
+        touch ./y1.m3u8
+        sudo cat >./y1.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=dY2cRNr5Buw)
+        EOL
+    - name: Get y2.m3u8
+      run: |
+        touch ./y2.m3u8
+        sudo cat >./y2.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=j2L_559nCjc)
         EOL	
     - name: Get tn1.m3u8
       run: |
@@ -662,59 +644,86 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(youtube-dl -g https://www.youtube.com/watch?v=A4lBLuo82nM)
         EOL		
-    - name: Get tp1.m3u8
+    - name: Get h1.m3u8
       run: |
-        touch ./tp1.m3u8
-        sudo cat >./tp1.m3u8 <<EOL
+        touch ./h1.m3u8
+        sudo cat >./h1.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=BP69KnwrvxM)
-        EOL			
-    - name: Get tp2.m3u8
-      run: |
-        touch ./tp2.m3u8
-        sudo cat >./tp2.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=z_fY1pj1VBw)
-        EOL			
-    - name: Get tp3.m3u8
-      run: |
-        touch ./tp3.m3u8
-        sudo cat >./tp3.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=myZqBXELfvc)
-        EOL			
-    - name: Get tp4.m3u8
-      run: |
-        touch ./tp4.m3u8
-        sudo cat >./tp4.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=3w96Y8hbZfE)
+        $(youtube-dl -g https://www.youtube.com/watch?v=BWrRFJoOV9c)
         EOL	
-    - name: Get tp5.m3u8
+    - name: Get td1.m3u8
       run: |
-        touch ./tp5.m3u8
-        sudo cat >./tp5.m3u8 <<EOL
+        touch ./td1.m3u8
+        sudo cat >./td1.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=dc0ZdgRMnsQ)
+        $(youtube-dl -g https://www.youtube.com/watch?v=jFJ59-9tTyM)
         EOL			
-    - name: Get tp6.m3u8
+    - name: Get td2.m3u8
       run: |
-        touch ./tp6.m3u8
-        sudo cat >./tp6.m3u8 <<EOL
+        touch ./td2.m3u8
+        sudo cat >./td2.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=ZrKYemeOfw8)
+        $(youtube-dl -g https://www.youtube.com/watch?v=UCG1aXVO8H8)
+        EOL			
+    - name: Get td3.m3u8
+      run: |
+        touch ./td3.m3u8
+        sudo cat >./td3.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=6aYqW-1QJ0ts)
+        EOL			
+    - name: Get td4.m3u8
+      run: |
+        touch ./td4.m3u8
+        sudo cat >./td4.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=qYlxWDwTUtxg)
+        EOL		
+    - name: Get bn1.m3u8
+      run: |
+        touch ./bn1.m3u8
+        sudo cat >./bn1.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=hMOmSnZTOSg)
+        EOL		
+    - name: Get kin1.m3u8
+      run: |
+        touch ./kin1.m3u8
+        sudo cat >./kin1.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=uh_yNAE01w8)
+        EOL			
+    - name: Get kin2.m3u8
+      run: |
+        touch ./kin2.m3u8
+        sudo cat >./kin2.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=nMK1GUTjbbc)
+        EOL			
+    - name: Get kin3.m3u8
+      run: |
+        touch ./kin3.m3u8
+        sudo cat >./kin3.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(youtube-dl -g https://www.youtube.com/watch?v=e4VJS-ZAJj4)
         EOL				
     - name : Upload artifact
       uses: actions/upload-artifact@master
