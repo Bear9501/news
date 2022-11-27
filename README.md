@@ -62,7 +62,7 @@ vpn(https://www.youtube.com/watch?v=R2iMq5LKXco)
 
 [57.東森財經🔝](https://www.youtube.com/channel/UCuzqko_GKcj9922M1gUo__w/live)
 
-(https://www.youtube.com/watch?v=ABn_ccXn_jc)
+(https://www.youtube.com/watch?v=WHEPzbFA3hw)
 
 [59.鏡新聞🔝](https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live)
 
