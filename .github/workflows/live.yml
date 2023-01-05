@@ -103,7 +103,16 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
-        EOL      
+        EOL 
+     - name: Get 50.m3u8
+      run: |
+        touch ./50.m3u8
+        sudo cat >./50.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=wM0g8EoUZ_E)
+        EOL         
     - name: Get 51.m3u8
       run: |
         touch ./51.m3u8
