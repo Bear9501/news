@@ -1,4 +1,4 @@
-- name: Delete workflows runs
+- name: Delete news
   uses: ophub/delete-releases-workflows@main
   with:
     delete_tags: true
