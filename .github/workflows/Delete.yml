@@ -1,5 +1,5 @@
 - name: Delete news
-  uses: ophub/delete-releases-workflows@main
+  uses: ophub/news@main
   with:
     delete_tags: true
 
