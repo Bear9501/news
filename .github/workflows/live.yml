@@ -102,7 +102,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://m.youtube.com/watch?v=B7Zp3d6xXWw)
+        $(youtube-dl -g https://www.youtube.com/@globalnewstw/live))
         EOL 
     - name: Get 50.m3u8
       run: |
@@ -192,7 +192,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://m.youtube.com/watch?v=5n0y6b0Q25o)
+        $(youtube-dl -g https://www.youtube.com/@mnews-tw/live)
         EOL	
     - name: Get a1.m3u8
       run: |
@@ -201,7 +201,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/c/NTDAPTV/live)
+        $(youtube-dl -g https://www.youtube.com/@NTDAPTV/live)
         EOL	
  
     - name : Upload artifact
